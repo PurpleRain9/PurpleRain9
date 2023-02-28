@@ -29,7 +29,7 @@
 <br>
 <table><tr><td valign="top" width="33%">
 <h3 align="center"> Skill Set</h3>
-<div align="center">
+<div align="center" style="margin:button:1rem;">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img
 style="margin: 10px"
 src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
