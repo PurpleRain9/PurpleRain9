@@ -27,7 +27,7 @@
 </div>
 <br>
 <br>
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 <h3 align="center"> Skill Set</h3>
 <div align="center" style="margin-bottom: 1em;">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img
