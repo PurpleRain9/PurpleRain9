@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-    - ❓ Ask me about anything related to Flutter and Dart
+    - ❓ Ask me about anything related to Laravel and Vuejs
 </div>
 
 <div align="center">
