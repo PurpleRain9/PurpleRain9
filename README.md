@@ -1,6 +1,6 @@
 <div align="center">
     <img
-        src="https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif"
+        src="[https://tenor.com/en-GB/view/error-codes-gif-15218217](https://media1.tenor.com/m/UfYx4HAebVYAAAAC/error-codes.gif)"
         align="center" style="width:600px; height:300px;" />
 </div>
 
