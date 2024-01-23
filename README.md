@@ -1,6 +1,6 @@
 <div align="center">
     <img
-        src="blob:https://tenor.com/d0a7f850-7387-4486-b351-88ba30833af6"
+        src="https://tenor.com/d0a7f850-7387-4486-b351-88ba30833af6"
         align="center" style="width:600px; height:300px;" />
 </div>
 
