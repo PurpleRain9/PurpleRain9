@@ -6,7 +6,7 @@ align="center" style="width:300px; height:300px;" /> -->
 style="display: flex; justify-content: center; align-items: center; margin: 0rem 0rem 2rem 0rem;">
 <img src="https://cdn.dribbble.com/users/552485/screenshots/1900973/media/82a2f99c10cfe34bde98cf3f5544ba7b.gif"
 align="center" style="width:500px; height:200px; border-radius: 50%; margin-top: 5rem; margin-bottom: 3rem;" />
-<p style="color: white; margin: 5rem 2rem 0rem 2rem;">I'm Full-stack Web Developer</p>
+<p style="color: white; margin: 5rem 2rem 0rem 2rem;">I'm Full-Stack Web Developer</p>
 <img src="https://cdn.dribbble.com/users/52485/screenshots/1900973/media/82a2f99c10cfe34bde98cf3f5544ba7b.gif"
 align="center" style="width:50px; height:50px; border-radius: 50%;  margin-top: 5rem;" />
 </div>
